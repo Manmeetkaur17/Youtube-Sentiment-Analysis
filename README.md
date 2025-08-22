@@ -48,4 +48,8 @@ Run all cells to fetch comments and analyze sentiment.
     
   Translation of non-English comments
 
+## 🔗 Run on Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Manmeetkaur17/Youtube-Sentiment-Analysis/blob/main/youTubeSentimentAnalysis.ipynb)
+
+
 👩‍💻 Developed by Manmeet Kaur
