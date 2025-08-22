@@ -4,6 +4,10 @@
 This project performs **sentiment analysis on YouTube comments**.  
 It uses the **YouTube Data API** to extract comments, followed by **NLP techniques** for language detection, translation, and sentiment classification. Finally, it generates **summarized insights** from user feedback.  
 
+## 🔗 Run on Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Manmeetkaur17/Youtube-Sentiment-Analysis/blob/main/youTubeSentimentAnalysis.ipynb)
+
+
 ## 🚀 Features
 - ✅ Extract comments from YouTube videos using **YouTube API**  
 - ✅ Detect comment language using **langdetect**  
@@ -47,9 +51,6 @@ Run all cells to fetch comments and analyze sentiment.
   Summarized feedback from all comments
     
   Translation of non-English comments
-
-## 🔗 Run on Google Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Manmeetkaur17/Youtube-Sentiment-Analysis/blob/main/youTubeSentimentAnalysis.ipynb)
 
 
 👩‍💻 Developed by Manmeet Kaur
